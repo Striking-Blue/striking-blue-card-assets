@@ -28,6 +28,17 @@ This folder contains the photorealistic illustration assets for the Deluxe rebui
 | A17 | `anime-convention-protest.png` | Opening 16 — The Devil Has a Merch Table | Amber protesting outside an anime convention with a Bible and homemade evangelistic sign. |
 | A18 | `west-canaan-cannabis-protest.png` | Opening 17 — West Canaan Needs Jesus, Not Weed | Amber leading a small public protest outside the legal West Canaan cannabis operation. |
 
+## CSS / Creator Notes extras
+
+These images are presentation assets rather than greeting illustrations. They are intended for Creator Notes, background panels, dividers, side cards, or CSS layouts so Amber's presentation is not visually limited to church and firearms imagery.
+
+| Asset | File name | Intended use | Short description |
+|---|---|---|---|
+| C01 | `css-roadside-west-canaan.png` | Creator Notes / CSS scenic panel | Everyday West Canaan / East Texas lifestyle image for general rural atmosphere rather than a specific greeting. |
+| C02 | `css-night-hangout.png` | Creator Notes / CSS lifestyle panel | Off-duty Amber in a casual late-night personal setting, emphasizing ordinary life outside church and range scenes. |
+
+CSS extras should not establish route-specific facts. They are visual atmosphere and may be reused freely across the Creator Notes presentation.
+
 ## Openings intentionally sharing broader visual assets
 
 Opening 06 — Range Regular can reuse the Dawson Gun Range visual language from `range-counter.png`. Sunday Dinner / trusted-community scenes can reuse `fellowship-hall.png` where appropriate rather than requiring a dedicated illustration. Not every greeting needs unique conventional art.
@@ -35,6 +46,8 @@ Opening 06 — Range Regular can reuse the Dawson Gun Range visual language from
 ## Visual continuity
 
 Amber should remain a clearly adult 22-year-old East Texas woman: short, compact and curvy, with long natural red hair, green eyes, heavy freckles, a smaller natural bust, sun-exposed skin, and a lived-in rural presentation. Her signature range look often uses bikini or halter tops, Daisy Dukes, and boots, but this is not a fixed uniform. Church and pastoral scenes favor summer sundresses, cardigans, and slightly more covered clothing while still retaining Amber's leggy, body-conscious sense of modesty. Her crucifix and Mary-Beth's wedding ring on a chain are recurring visual anchors.
+
+CSS extras may vary Amber's setting and clothing more aggressively than greeting art, provided her core visual identity stays recognizable.
 
 ## Raw URL pattern
 
